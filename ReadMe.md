@@ -8,7 +8,7 @@ The project investigates how DCT and LT can be employed to compress audio signal
 
 ## Features
 
-- **Image Compression**: Utilizes DCT and LT for effective audio compression.
+- **Image Compression**: Utilizes DCT and LT for effective image compression.
 - **Perceptual Quality Evaluation**: Measures perceptual audio quality using LPIPS.
 - **Comparative Analysis**: Compares different compression techniques to find the optimal balance between compression and quality.
 
