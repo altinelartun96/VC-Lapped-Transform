@@ -8,7 +8,7 @@ The project investigates how DCT and LT can be employed to compress audio signal
 
 ## Features
 
-- **Audio Compression**: Utilizes DCT and LOT for effective audio compression.
+- **Image Compression**: Utilizes DCT and LT for effective audio compression.
 - **Perceptual Quality Evaluation**: Measures perceptual audio quality using LPIPS.
 - **Comparative Analysis**: Compares different compression techniques to find the optimal balance between compression and quality.
 
@@ -18,9 +18,7 @@ To begin using this project, clone the repository and install the necessary depe
 
 ## Directory Structure
 
-- `data/`: Contains input audio files.
-- `results/`: Stores results and output files.
-- `src/`: Contains source code for compression algorithms and evaluation metrics.
+
 - `main.py`: Script for running the compression and evaluation processes.
 
 - `color/`: Contains source files for color images.
